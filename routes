@@ -1,0 +1,8 @@
+{
+  "bic": "ZXYWUSJJKKK",
+  "amount": 1234.85,
+  "currencies": "USD",
+  "type": "Customer payment",
+  "charges": "OUR",
+  "dateTime": "2022-09-25T13:02"
+}
