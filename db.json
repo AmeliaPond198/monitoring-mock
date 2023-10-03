@@ -1,43 +1,47 @@
 {
-    "items": [
+    [
         {
-          "system": "MDX",
-          "date": "2023-09-06T12:15:50",
-          "eventId": "charlie",
-          "flowId": "string",
-          "resubmitted": true,
-          "officer": "string",
-          "reason": "string",
-          "severity": "DEBUG",
-          "subjectType": "CUSTOMER",
-          "subjectId": "string",
-          "message": "string"
+            "isoCode": "IT",
+            "description": "ITALY",
+            "riskClassification": 1,
+            "sepaPartecipant": true
         },
         {
-          "system": "MDR",
-          "date": "2023-09-01T12:15:50",
-          "eventId": "miller",
-          "flowId": "string",
-          "resubmitted": false,
-          "officer": "string",
-          "reason": "string",
-          "severity": "PARKED",
-          "subjectType": "ACCOUNT",
-          "subjectId": "string",
-          "message": "hello world"
+            "isoCode": "DE",
+            "description": "GERMANY",
+            "riskClassification": 2,
+            "sepaPartecipant": true
         },
         {
-          "system": "TPA",
-          "date": "2023-09-01T12:15:50",
-          "eventId": "swartz",
-          "flowId": "string",
-          "resubmitted": "N/A",
-          "officer": "string",
-          "reason": "string",
-          "severity": "WARNING",
-          "subjectType": "USER",
-          "subjectId": "string",
-          "message": "hello world again"
-        }
+            "isoCode": "GB",
+            "description": "ENGLAND",
+            "riskClassification": 1,
+            "sepaPartecipant": false
+        },
+        {
+            "isoCode": "LT",
+            "description": "LITUANIA",
+            "riskClassification": 2,
+            "sepaPartecipant": false
+         },
+         {
+            "isoCode": "IT",
+            "description": "ITALY",
+            "riskClassification": 1,
+            "sepaPartecipant": true
+         },
+        {
+            "isoCode": "FR",
+            "description": "FRANCE",
+            "riskClassification": 1,
+            "sepaPartecipant": true
+         },
+         {
+            "isoCode": "ES",
+            "description": "SPAIN",
+            "riskClassification": 2,
+            "sepaPartecipant": false
+         },
+        
       ]
   }
